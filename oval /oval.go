@@ -185,5 +185,6 @@ func newOvalDB(cnf config.VulnDictInterface) (ovaldb.DB, error) {
 		}
 		return nil, xerrors.Errorf("Failed to init OVAL DB. DB Path: %s, err: %w", path, err)
 	}
+	
 	return driver, nil
 }
