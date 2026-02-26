@@ -19,7 +19,6 @@ Twitter: [@vuls_en](https://twitter.com/vuls_en)
 ![Vuls-slack](img/vuls-slack-en.png)
 
 ----
-
 ## Abstract
 
 For a system administrator, having to perform security vulnerability analysis and software update on a daily basis can be a burden.
